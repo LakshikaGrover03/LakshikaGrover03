@@ -33,7 +33,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lakshika-grover-11a7a9399" target="blank">
+<a href="www.linkedin.com/in/lakshika-grover-b16a862bb" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
